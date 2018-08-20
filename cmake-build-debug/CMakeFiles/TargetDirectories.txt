@@ -1,0 +1,5 @@
+D:/git/cpp_training/cmake-build-debug/CMakeFiles/p1_1.dir
+D:/git/cpp_training/cmake-build-debug/CMakeFiles/p1_2.dir
+D:/git/cpp_training/cmake-build-debug/CMakeFiles/p1_3.dir
+D:/git/cpp_training/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/git/cpp_training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
