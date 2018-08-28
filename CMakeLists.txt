@@ -15,3 +15,6 @@ add_executable(p4_1 b4_function/4_1_hanoi.cpp)
 add_executable(p4_2 b4_function/4_2_reorder.cpp)
 add_executable(p4_3 b4_function/4_3_prime_judge.cpp)
 
+#p4
+add_executable(p5_1 b5_array/5_1_homework.cpp)
+
